@@ -1,0 +1,37 @@
+.gray_container{
+    background-color: #AEAEAE;
+    /* height: 40vh; */
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.gray{
+    background-color: #525252;
+    width: 32%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gray_p{
+    margin-top: 60%;
+}
+.p4{
+    font-size: 16px;
+}
+.p5{
+    font-size: 10px;
+}
+
+.section_4-icon{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65%;
+    margin-right: 10%;
+}

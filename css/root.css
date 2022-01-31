@@ -1,0 +1,40 @@
+
+html{
+    background-color: white;
+    width: 100vw;
+    font-size: 16px;
+}
+body{
+    min-height: 100vh;
+    margin: auto;
+    
+}
+
+header{
+    background-color: black;
+}
+
+@font-face {
+    font-family: Font;
+    src: url(../font/GistLight.otf);
+}
+
+@font-face {
+    font-family: lora;
+    src: url(../font/Lora-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: ous;
+    src: url(../font/Righteous-Regular.ttf);
+}
+
+@font-face {
+    font-family: sand;
+    src: url(../font/Quicksand-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: pop;
+    src: url(../font/MochiyPopPOne-Regular.ttf);
+}

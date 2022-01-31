@@ -1,0 +1,61 @@
+.section_1{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+    margin: auto ;
+    position: relative;
+    background-color: gray;
+}
+
+.section_1-header{
+    font-family: 'Varela Round', sans-serif;
+}
+
+.h3{
+    font-size: 32px;
+}
+.h1{
+    font-size: 48px;
+}
+.p11{
+    font-size: 16px;
+}
+
+.section_1-icon{
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 47%;
+    font-size: 24px;
+}
+
+.section1_footer{
+    position: absolute;
+    bottom: 1rem;
+    left: 49%;
+    display: flex;
+    transform: translateX(-50%);
+}
+
+.section1_footer-circle{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    margin-right: 0.4rem;
+
+}
+
+.active{
+    background-color: transparent;
+    border: 0.5px solid blue;
+}

@@ -1,0 +1,42 @@
+.section_2{
+    display: flex;
+    background-color: #0C090A;
+    color: white;
+    align-items: center;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+     flex-direction: column;
+     min-height: 64vh;
+}
+
+.section_2-header{
+    font-family: 'sand';
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.h{
+    font-size: 36px;
+}
+.p12{
+    font-size: 16px;
+}
+    
+.icon{
+    color: blue;
+    font-size: 32px;
+}
+
+.caption{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    align-self: center;
+    width: 64%;
+    margin: auto;
+}
+.p{
+    font-size: 12px;
+}
+
